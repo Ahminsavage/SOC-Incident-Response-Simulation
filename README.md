@@ -2,6 +2,12 @@
 
 A beginner-friendly Security Operations Center (SOC) incident response simulation project using Splunk and sample SOC logs.
 
+Project: Incident Response Simulation Report 
+Tools Used: Splunk (Free Trial), Sample SOC Logs, SPL Queries
+Prepared by: AHMIN SAVAGE 
+Date: August 2025
+Task: FutureInterns – Task 2
+
 
 
 ## Project Overview
