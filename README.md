@@ -1,7 +1,8 @@
 # SOC-Incident-Response-Simulation
+
 A beginner-friendly Security Operations Center (SOC) incident response simulation project using Splunk and sample SOC logs.
 
-# Security Alert Monitoring & Incident Response Simulation Report
+
 
 ## Project Overview
 This project simulates the activities of a Security Operations Center (SOC) analyst.  
